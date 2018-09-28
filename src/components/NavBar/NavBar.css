@@ -1,0 +1,26 @@
+
+.nav{
+  background: #5133a4;
+  min-height: 70px;
+  width: 100%;
+  color: white;
+  font-size: 20pt;
+  z-index: 99;
+}
+
+a{
+  color: white;
+}
+
+.nav li {
+display: inline-block;
+padding: 30px 0;
+width: 25%;
+text-align: center;
+}
+
+ul {
+  padding-left: 0px;
+  width: 100%;
+}
+

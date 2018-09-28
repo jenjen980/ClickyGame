@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "affen",
+        "image": "https://images.dog.ceo/breeds/affenpinscher/n02110627_11584.jpg"
+    },
+    {
+        "id": 2,
+        "name": "wolf dog",
+        "image": "https://images.dog.ceo/breeds/komondor/n02105505_4260.jpg"
+    },
+    {
+        "id": 3,
+        "name": "poodle",
+        "image": "https://images.dog.ceo/breeds/poodle-standard/n02113799_1743.jpg"
+    },
+    {
+        "id": 4,
+        "name": "groenendael",
+        "image": "https://images.dog.ceo/breeds/groenendael/n02105056_7407.jpg"
+    },
+    {
+        "id": 5,
+        "name": "schnauzer",
+        "image": "https://images.dog.ceo/breeds/schnauzer/n02097209_3928.jpg"
+    },
+    {
+        "id": 6,
+        "name": "terrier",
+        "image": "https://images.dog.ceo/breeds/terrier-american/n02093428_3001.jpg"
+    },
+    {
+        "id": 7,
+        "name": "whippet",
+        "image": "https://images.dog.ceo/breeds/whippet/n02091134_15784.jpg"
+    },
+    {
+        "id": 8,
+        "name": "terrier",
+        "image":  "https://images.dog.ceo/breeds/terrier-border/n02093754_7908.jpg"
+    },
+    {
+        "id": 9,
+        "name": "irish",
+        "image": "https://images.dog.ceo/breeds/wolfhound-irish/n02090721_4362.jpg"
+    },
+    {
+        "id": 10,
+        "name": "ent",
+        "image": "https://images.dog.ceo/breeds/entlebucher/n02108000_2753.jpg"
+    },
+    {
+        "id": 11,
+        "name": "brabancon",
+        "image": "https://images.dog.ceo/breeds/brabancon/n02112706_154.jpg"
+    },
+    {
+        "id": 12,
+        "name": "maltese",
+        "image": "https://images.dog.ceo/breeds/maltese/n02085936_3313.jpg"
+    }
+]
